@@ -39,3 +39,4 @@ uvicorn main:app --reload --port 8000
 Open in your browser:
 Navigate to http://localhost:8000.
 ![image alt](https://github.com/ashutosh096/youTube_Transcript_Summarizer/blob/82cbc5bd2fd9e36b8be5ff155072240fe73b4015/Screenshot%202026-03-31%20225831.png)
+![image alt](https://github.com/ashutosh096/youTube_Transcript_Summarizer/blob/34d6f1da0a22060cec8857bc135910af68811220/Screenshot%202026-03-31%20225840.png)
